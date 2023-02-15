@@ -1,3 +1,3 @@
-# A Simple TO-DO list with HTML, CSS and JS
+# A Simple Quiz app made with HTML, CSS and JS
 
-This app is a basic JS project which can help you maintain a to-do list for the day.
+This app is a basic JS project which gives you custom questions and gives feedback whether you answered the question correctly or not.
